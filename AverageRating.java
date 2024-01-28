@@ -20,9 +20,9 @@ public class AverageRating {
 	{
 		
 		 double[][] ratings = {
-			      {8.5, 9.0, 7.5, 8.0},
-			      {7.0, 8.0, 6.5, 7.5},
-			      {9.5, 8.5, 9.0, 9.0}
+			      {4, 6, 2, 5},
+			      {7, 9, 4, 8},
+			      {6, 9, 3, 7}
 			    };
 		 
 			    double[] average = computeAverage(ratings);
